@@ -1,4 +1,4 @@
-import ctypes
+import ctypes 
 class INPUTS:
     def __init__(self):
         self.c=20
