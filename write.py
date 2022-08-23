@@ -5,7 +5,7 @@ from tkinter import ttk
 from tkinter.messagebox import showinfo
 
 
-from ArrayList import ArrayList
+from ArrayList import ArrayList 
 
 class store():
     def __init__(self,lst=[]):
