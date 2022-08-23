@@ -4,7 +4,7 @@ class node:
         self.t_s=t_s
         self.t_n=t_n
         self.pre=pre
-        self.next=next
+        self.next=next 
 class tracking:
     def __init__(self):
         self.head=node()
